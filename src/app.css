@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(235, 201, 206);
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 1rem;
+  color: grey;
+  border-bottom: 2px dotted black;
+  border-width: 3px;
+  padding: 10px 5px;
+}
+
+li:hover {
+  color: white;
+}
