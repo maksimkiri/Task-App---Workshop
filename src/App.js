@@ -1,5 +1,6 @@
 import React from "react";
 import "./app.css";
+
 function App() {
   const tasks = ["Laundry", "Dishes", "Vacuum"];
 

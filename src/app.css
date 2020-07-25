@@ -11,7 +11,7 @@ li {
   color: grey;
   border-bottom: 2px dotted black;
   border-width: 3px;
-  padding: 10px 5px;
+  padding: 10px 10px;
 }
 
 li:hover {
